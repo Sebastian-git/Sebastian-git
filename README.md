@@ -1,5 +1,3 @@
-![](/name.png)
-
 ### Introduction
 
 Hi, my name is Sebastian Cevallos. I love Computer Science and will be posting most of the projects I enjoy on here to share.
