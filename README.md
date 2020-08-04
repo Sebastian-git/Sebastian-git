@@ -1,7 +1,16 @@
-### Introduction
+# Introduction
 
 Hi, my name is Sebastian Cevallos. I love Computer Science and will be posting most of the projects I enjoy on here to share.
 
-Most of the projects that will be posted here are what I consider professional and I aim to document them as well as possible through reliably named commits and a thorough readme with example images and an in-depth description.
+🟢 Project manager in the development of an e-commerce website using Node.js, Stripe and Amazon Web Services
 
-![](https://media-exp1.licdn.com/dms/image/C4D1BAQHgVbml3WKvPA/company-background_10000/0?e=2159024400&v=beta&t=CnXEDBMS9A4dmeLn0PVBfSTjxEChZnYeKLMr5c5x30g)
+🟢 Studying website development in the Snapchat Engineering Academy (MERN Stack, Firebase databases, Git Version Control)
+
+🟢 Assisting in the development of deep learning algorithms for improved semantic segmentation of satellite images using Python through JPL's SIRI internship
+
+
+## Check out some of my favorite projects:
+
+💚 [Keylogger](https://github.com/Sebastian-git/KeyLogger) : This Python based keylogger uses Pynput to save keystrokes into an array, then sends the keys to a set email after a predetermined time interval. Still in progress, but I look forward to updating this project!
+
+💚 Will add more soon...
