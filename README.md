@@ -1,4 +1,4 @@
-![](/name.png)
+![](/background.png)
 
 ### Introduction
 
