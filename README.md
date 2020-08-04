@@ -1,6 +1,7 @@
 # Introduction
 
-Hi, my name is Sebastian Cevallos. I love Computer Science and will be posting most of the projects I enjoy on here to share.
+#### Hi, my name is Sebastian Cevallos. I love Computer Science and will be posting most of the projects I enjoy on here to share.
+<br><br>
 
 🟢 Project manager in the development of an e-commerce website using Node.js, Stripe and Amazon Web Services
 
@@ -12,5 +13,3 @@ Hi, my name is Sebastian Cevallos. I love Computer Science and will be posting m
 ## Check out some of my favorite projects:
 
 💚 [Keylogger](https://github.com/Sebastian-git/KeyLogger) : This Python based keylogger uses Pynput to save keystrokes into an array, then sends the keys to a set email after a predetermined time interval. Still in progress, but I look forward to updating this project!
-
-💚 Will add more soon...
