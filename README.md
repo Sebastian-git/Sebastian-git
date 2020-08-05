@@ -11,10 +11,6 @@
 
 🟢 NASA JPL SIRI Internship: Assisting in the development of deep learning algorithms for improved semantic segmentation of satellite images using Python (Tensorflow & PyTorch) and Git while under direct mentor ship from JPL employees
 
-
-College student studying Computer Science looking for internship positions in software development/engineering. 
-
-
 ## Check out some of my favorite projects:
 
 💚 [Keylogger](https://github.com/Sebastian-git/KeyLogger) : This Python based keylogger uses Pynput to save keystrokes into an array, then sends the keys to a set email after a predetermined time interval. Still in progress, but I look forward to updating this project!
