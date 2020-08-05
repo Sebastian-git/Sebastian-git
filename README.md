@@ -5,11 +5,14 @@
 
 ## Currently I am...
 
-🟢 Project manager in the development of an e-commerce website using Node.js, Stripe and Amazon Web Services
+🟢 Project manager for an e-commerce subscription website using Express, Node.js, Stripe and Amazon Web Services (EC2)
 
-🟢 Studying website development in the Snapchat Engineering Academy (MERN Stack, Firebase databases, Git Version Control)
+🟢 Snapchat Engineering Academy: Studying website development and applicable tools (MERN Stack, Firebase databases, Git Version Control) while having access to fireside chats with Snapchat employees
 
-🟢 Assisting in the development of deep learning algorithms for improved semantic segmentation of satellite images using Python through JPL's SIRI internship
+🟢 NASA JPL SIRI Internship: Assisting in the development of deep learning algorithms for improved semantic segmentation of satellite images using Python (Tensorflow & PyTorch) and Git while under direct mentor ship from JPL employees
+
+
+College student studying Computer Science looking for internship positions in software development/engineering. 
 
 
 ## Check out some of my favorite projects:
