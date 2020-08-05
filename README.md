@@ -5,7 +5,7 @@
 
 ## Currently I am...
 
-🟢 Project manager for an e-commerce subscription website using Express, Node.js, Stripe and Amazon Web Services (EC2)
+🟢 Project manager for an e-commerce subscription website using Express, Node.js, MongoDB's Atlas, Stripe and Amazon Web Services (S3)
 
 🟢 Snapchat Engineering Academy: Studying website development and applicable tools (MERN Stack, Firebase databases, Git Version Control) while having access to fireside chats with Snapchat employees
 
