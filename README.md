@@ -6,7 +6,7 @@
 
 🟢 Leader in the development of an e-commerce and subscription based website. Stripe's payment processing platform was used with Express to manage finances. Amazon Web Service's EC2 instance was run using Amazon Linux in collaboration with MongoDB to handle back end operations through PuTTY's SSH client
 
-🟢 Project manager in the development of the website North Star, which uses NASA's Fireball API to inform users of the location and magnitude of fireballs after searching the minimum/maximum date constraints. Project was made in collaboration with Snapchat Engineering Academy and is kept on my GitHub
+🟢 Project manager in the creation of the website "Close Encounters of the Meteor Kind", which uses NASA's Fireball API to inform users of the location and magnitude of fireballs after searching the minimum/maximum date constraints. Project was made in collaboration with Snapchat Engineering Academy and is kept on my GitHub under ["north-star"](https://github.com/Sebastian-git/north-star)
 
 🟢 Snapchat Engineering Academy: Studying website development and applicable tools (MERN Stack, Firebase databases, Git Version Control) while having access to fireside chats with Snapchat employees
 
