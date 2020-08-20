@@ -4,13 +4,13 @@
 
 ## Currently I am...
 
-🟢 Leader in the development of an e-commerce and subscription based website. Stripe's payment processing platform was used with Express to manage finances. Amazon Web Service's EC2 instance was run using Amazon Linux in collaboration with MongoDB to handle back end operations through PuTTY's SSH client
+🟢 Leader in the development of an e-commerce and subscription based website in a freelance job. Stripe's payment processing platform was used with Express.js to manage finances. Amazon Web Service's EC2 instance was run using Amazon Linux in collaboration with MongoDB to handle back end operations through PuTTY's SSH client.
 
-🟢 Project manager in the creation of the website "Close Encounters of the Meteor Kind", which uses NASA's Fireball API to inform users of the location and magnitude of fireballs after searching the minimum/maximum date constraints. Project was made in collaboration with Snapchat Engineering Academy and is kept on my GitHub under ["north-star"](https://github.com/Sebastian-git/north-star)
+🟢 Project manager and back end developer in the creation of the website "Snap Observatory", which uses NASA's Fireball API to inform users of the location and magnitude of fireballs after searching the minimum/maximum date constraints. Users can create accounts and save fireballs into their favorites page using Firebase and Node.js. Project was made in collaboration with Snapchat Engineering Academy and is kept on my GitHub under ["north-star"](https://github.com/Sebastian-git/north-star).
 
-🟢 Snapchat Engineering Academy: Studying website development and applicable tools (MERN Stack, Firebase databases, Git Version Control) while having access to fireside chats with Snapchat employees
+🟢 Snapchat Engineering Academy: Studying website development and applicable tools included but not limited to Firebase ([Firestore](https://firebase.google.com/docs/firestore), [Firebase Auth API](https://firebase.google.com/docs/auth)), Node.js (Express, Express-Session, EJS), personalized CSS classes, and consistent use of Git Version Control. Personalized fireside chats with executive Snapchat employees like [Derek Anderson](https://www.cnbc.com/2019/05/20/snap-names-derek-andersen-as-cfo.html#:~:text=Snap%20on%20Monday%20announced%20the,for%20less%20than%20a%20year.) (CFO), [Evan Spiegel](https://www.forbes.com/profile/evan-spiegel/#374ac06d529c) (CEO & Cofounder), and [Bobby Murphy](https://www.forbes.com/profile/bobby-murphy/#9fb00cc37ba5) (Cofounder) gave real world experience. In addition, each scholar received a personal mentor for the duration of the academy that worked at Snap.
 
-🟢 NASA JPL SIRI Internship: Assisting in the development of deep learning algorithms for improved semantic segmentation of satellite images using Python (Tensorflow & PyTorch) and Git while under direct mentor ship from JPL employees
+🟢 NASA JPL SIRI Internship: Assisting in the development of deep learning algorithms for improved semantic segmentation of satellite images using Python (Tensorflow & PyTorch) and Git while under direct mentor ship from JPL employees.
 
 
 ## Check out some of my favorite projects:
