@@ -16,3 +16,5 @@
 ## Check out some of my favorite projects:
 
 💚 [Keylogger](https://github.com/Sebastian-git/KeyLogger) : This Python based keylogger uses Pynput to save keystrokes into an array, then sends the keys to a set email after a predetermined time interval. Still in progress, but I look forward to updating this project!
+
+💚 [north-star](https://github.com/Sebastian-git/north-star) : In collaboration with the Snap Engineering Academy, I took the role of project manager and became the back-end developer in a group that created the website "Snap Observatory". This website takes fireball (meteor) data from the NASA Fireball API with Express.js and saves it to a database after you create an account using Firebase.
