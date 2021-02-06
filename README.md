@@ -2,7 +2,7 @@
 
 #### Hi, my name is Sebastian Cevallos. I love Computer Science and will be posting most of the projects I enjoy on here to share.
 
-## Currently I am...
+## About me...
 
 🟢 NASA JPL SIRI Internship: Assisting in the development and research of deep learning algorithms for improved semantic segmentation of satellite images using Python (Tensorflow & PyTorch) and Git while under direct mentor ship from JPL employees. (Fall 2020)
 
@@ -13,6 +13,8 @@
 🟢 Snapchat Engineering Academy scholar studying website development and applicable tools included but not limited to Firebase ([Firestore](https://firebase.google.com/docs/firestore), [Firebase Auth API](https://firebase.google.com/docs/auth)), Node.js (Express, Express-Session, EJS), personalized CSS classes, and consistent use of Git Version Control. Personalized fireside chats with executive Snapchat employees like [Derek Anderson](https://www.cnbc.com/2019/05/20/snap-names-derek-andersen-as-cfo.html#:~:text=Snap%20on%20Monday%20announced%20the,for%20less%20than%20a%20year.) (CFO), [Evan Spiegel](https://www.forbes.com/profile/evan-spiegel/#374ac06d529c) (CEO & Cofounder), and [Bobby Murphy](https://www.forbes.com/profile/bobby-murphy/#9fb00cc37ba5) (Cofounder) gave real world experience. In addition, each scholar received a personal mentor for the duration of the academy that worked at Snap. (Summer 2020)
 
 ## Check out some of my favorite projects:
+
+💚 [Speed Typing](https://github.com/Sebastian-git/SpeedTyping) : After reaching 130 WPM from constant speed typing training, I figured I would make my own speed typing program with custom input to maximize educational value.
 
 💚 [Keylogger](https://github.com/Sebastian-git/KeyLogger) : This Python based keylogger uses Pynput to save keystrokes into an array, then sends the keys to a set email after a predetermined time interval. Still in progress, but I look forward to updating this project!
 
