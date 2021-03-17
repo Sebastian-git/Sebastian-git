@@ -1,8 +1,10 @@
 # Introduction
 
-#### Hi, my name is Sebastian Cevallos. I love Computer Science and will be posting most of the projects I enjoy on here to share.
+#### Hi, my name is Sebastian Cevallos. I love problem solving and learning new things, I plan to be posting most of the projects I enjoy on here to share.
 
 ## About me...
+
+🟢 Collaborated with marketing and design teams as a full stack developer to publish a mobile responsive website under direct guidance from company executives
 
 🟢 NASA JPL SIRI Internship: Assisting in the development and research of deep learning algorithms for improved semantic segmentation of satellite images using Python (Tensorflow & PyTorch) and Git while under direct mentor ship from JPL employees. (Fall 2020)
 
