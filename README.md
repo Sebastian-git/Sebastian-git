@@ -4,9 +4,9 @@
 
 ## About me...
 
-🟢 Collaborated with marketing and design teams as a full stack developer to publish a mobile responsive website under direct guidance from company executives
+🟢 Assisted the startup company "Nuleep" by collaborating with marketing and design teams as a full stack developer to publish a mobile responsive website under direct guidance from company executives. (Spring 2021)
 
-🟢 NASA JPL SIRI Internship: Assisting in the development and research of deep learning algorithms for improved semantic segmentation of satellite images using Python (Tensorflow & PyTorch) and Git while under direct mentor ship from JPL employees. (Fall 2020)
+🟢 NASA JPL SIRI Research Internship: Assisting in the development and research of deep learning algorithms for improved semantic segmentation of satellite images using Python (Tensorflow & PyTorch) and Git while under direct mentor ship from JPL employees. (Fall 2020)
 
 🟢 Leader in the development of an e-commerce and subscription based website in a freelance job. Stripe's payment processing platform was used with Express.js to manage finances. Amazon Web Service's EC2 instance was run using Amazon Linux in collaboration with MongoDB to handle back end operations through PuTTY's SSH client. (Summer 2020)
 
