@@ -1,10 +1,8 @@
 # Introduction
 
-#### Hi, my name is Sebastian Cevallos. I love problem solving and learning new things, I plan to be posting most of the projects I enjoy on here to share.
+#### Hi, my name is Sebastian. My goal is to fill my Github account with high quality projects that express a deep understanding in practical data structures and algorithms, while putting an emphasis in user experience and design.
 
 ## About me...
-
-College student studying Computer Science looking for internship positions in software development with an emphasis on cyber security. Learn more about me by clicking "see more".
 
 🟢 Nuleep Internship: Collaborated in publication of a mobile responsive website under direct guidance from company executives. Designed dynamic front-end website features using React, Redux and TailwindCSS. Assisted in back-end development by creating user profiles with Express, Node and MongoDB stored on Azure. (Spring 2021-Fall 2022)
 
