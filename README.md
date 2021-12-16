@@ -1,6 +1,6 @@
 # Introduction
 
-#### Hi, my name is Sebastian. My goal is to fill my Github account with high quality projects that express a deep understanding in practical data structures and algorithms, while putting an emphasis in user experience and design.
+#### Hi, my name is Sebastian. My goal is to fill my Github account with high quality projects that express a deep understanding in practical data structures and algorithms while putting an emphasis in user experience and design.
 
 ## About me...
 
