@@ -14,6 +14,6 @@
 
 ## Check out some of my favorite projects:
 
-💚 [Speed Typing](https://github.com/Sebastian-git/SpeedTyping) : After reaching 130 WPM from constant speed typing training, I figured I would make my own speed typing program with custom input to maximize educational value.
+💚 [Sorting Visualizer](https://github.com/Sebastian-git/VisualSorting) : A website that visualizes common sorting algorithms.
 
 💚 [Keylogger](https://github.com/Sebastian-git/KeyLogger) : This Python based keylogger uses Pynput to save keystrokes into an array, then sends the keys to a set email after a predetermined time interval. Still in progress, but I look forward to updating this project!
