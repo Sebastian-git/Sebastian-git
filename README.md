@@ -4,7 +4,9 @@
 
 ## About me...
 
-🟢 Nuleep Internship: Collaborated in publication of a mobile responsive website under direct guidance from company executives. Designed dynamic front-end website features using React, Redux and TailwindCSS. Assisted in back-end development by creating user profiles with Express, Node and MongoDB stored on Azure. (Spring 2021-Fall 2022)
+🟢 Lunar Trailblazer Internship: Work in mission operations for the Lunar Trailblazer mission, a joint effort between Caltech and JPL to learn more about water on the moon. Utilizing NASA's Advanced Multi-Mission Operations System Instrument Toolkit (AIT-core) API and Python, I have collaborated in the development of satellite communication programs. (Fall 2021-Fall 2022)
+
+🟢 Nuleep Internship: Collaborated in publication of a mobile responsive website under direct guidance from company executives. Designed dynamic front-end website features using React, Redux and TailwindCSS. Assisted in back-end development by creating user profiles with Express, Node and MongoDB stored on Azure. (Spring 2021-Spring 2022)
 
 🟢 NASA JPL SIRI Research Internship: Assisted in the development and research of deep learning algorithms for improved semantic segmentation of satellite images using Python (Tensorflow & PyTorch) and Git while under direct mentor ship from JPL employees. (Fall 2020)
 
