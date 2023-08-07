@@ -10,11 +10,11 @@
 
 🟢 NASA JPL SIRI Research Internship: Assisted in the development and research of deep learning algorithms for improved semantic segmentation of satellite images using Python (Tensorflow & PyTorch) and Git while under direct mentor ship from JPL employees. (Fall 2020)
 
-🟢 Leader in the development of an e-commerce and subscription based website in a freelance job. Stripe's payment processing platform was used with Express.js to manage finances. Amazon Web Service's EC2 instance was run using Amazon Linux in collaboration with MongoDB to handle back end operations through PuTTY's SSH client. (Summer 2020)
-
 🟢 Snapchat Engineering Academy scholar: Studied website development and applicable tools included but not limited to Firebase (Firestore, Firebase Auth API), Node.js (Express, Express-Session, EJS), personalized CSS classes, and consistent use of Git Version Control. Attended personalized fireside chats with executive Snapchat employees like Derek Anderson (CFO), Evan Spiegel (CEO & Cofounder), and Bobby Murphy (Cofounder) gave real world experience. Received a personal mentor (Snap employee) for the duration of the academy. (Summer 2020)
 
 ## Check out some of my favorite projects:
+
+💚 [Binomial Beacon](https://github.com/Sebastian-git/BinomialBeacon) : Lighting the way in options pricing by simplify the Binomial Options Pricing Model.
 
 💚 [Sorting Visualizer](https://github.com/Sebastian-git/VisualSorting) : A website that visualizes common sorting algorithms.
 
